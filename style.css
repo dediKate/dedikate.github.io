@@ -1,1 +1,48 @@
+      .black-box {
+      	position: absolute;
+      	width: 50%;
+      	height: 350px;
+      	top: 100px;
+      	right: 25%;
+      	margin: 20px;
+      	padding: 10px;
+      	color: white;
+      	background-color: black;
+      	opacity: 0.80;
+      	border-radius: 10px;
+      }
+      h1 {
+        font-family: Audiowide;
+        font-size: 60px;
+        color: white;
+      }
+      div {
+        font-family:"Chakra Petch";
+        font-size: 25px;
+        color: white;
+      }
+      button {
+        font-family:"Chakra Petch";
+        font-size: 20px;
+        color: white;
+        background-color: black;
+        border: 4x solid green;
+        border-radius: 4px;
+        padding: 10px 24px;
+    }
+      footer {
+    	position: absolute;
+    	bottom: 0;
+    	right: 42%;
+    	width: 15%;
+      	height: 40px;
+      	margin: 20px 20px 20px 20px;
+      	padding: 10px 10px 10px 10px;
+      	color: white;
+      	background-color: black;
+      	opacity: 0.80;
+      	border-radius: 10px;
+      	font-family: monospace;
+      	font-size: 12px;
 
+    }
