@@ -5,4 +5,4 @@ In any text-based roleplaying game involving relationships, romance is bound to 
 
 While this originally started as a joke between two players, the frequency of FTB between their characters showed that a randomizer for this purpose would be helpful. This tool is written in JavaScript by a beginner.
 
-Functionality is simple: this version only includes a button to bring a random outcome from an array. Future versions may include inputs by players or inclusion of character names to random results further.
+Functionality is simple: this version only includes a button to bring a random outcome from an array. Future versions may include inputs by players or inclusion of character names to randomize results further.
