@@ -11,7 +11,7 @@ var fun = [
   'That round of boning was so good, you probably need a smoke, or drink, or whatever it is you do after a good time.',
   'Fast, furious, full of passion. This one was the real deal. Might need to talk about this one afterwards.',
   'In the middle of everything, someone went for the butt without asking.',
-  'You decided to get real verticle and someone got pinned to the wall. It would have been easier on the bed, but you did it for the hotness factor.',
+  'You decided to get real vertical and someone got pinned to the wall. It would have been easier on the bed, but you did it for the hotness factor.',
   'In a fit of passion, someone ended up on all fours and took it from behind.',
   'You got frisky and went down on your partner. And they got frisky and went down on you at the same time.',
   'You broke out the handcuffs, tied your partner down, and went at them for all their worth.',
