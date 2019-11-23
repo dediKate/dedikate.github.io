@@ -5,7 +5,44 @@
     </title>
   </head>
   <body>
-    <h1>Fade to Black: Fun Times Results Generator</h1>
+ <link href="https://fonts.googleapis.com/css?family=Audiowide&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Chakra+Petch&display=swap" rel="stylesheet">
+    <style>
+      body {
+        background-color: black;
+      }
+      h1 {
+        font-family: Audiowide;
+        font-size: 60px;
+        color: white;
+      }
+      h2 {
+        font-family: Audiowide;
+        font-size: 40px;
+        color: white;
+      }
+      div {
+        font-family:"Chakra Petch";
+        font-size: 25px;
+        color: white;
+      }
+      button {
+        font-family:"Chakra Petch";
+        font-size: 20px;
+        color: white;
+        background-color: black;
+        border: 4x solid green;
+        border-radius: 4px;
+        padding: 10px 24px;
+      }
+      hr {
+        color: green;
+      }
+    </style>
+   <center>
+    <h1>Fade to Black</h1>
+    <h2>Fun Times Randomizer</h2>
+    <hr>
     <div id="ftbResults">
       <!-- Results will display here. -->
     </div>
@@ -13,5 +50,6 @@
     <button onclick="newFun()">How'd It Go?</button>
     <p>
     <script src="ftb.js"></script>
+  </center>
   </body>
 </html>
