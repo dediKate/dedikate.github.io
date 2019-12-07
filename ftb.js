@@ -15,7 +15,8 @@ var fun = [
   'In a fit of passion, someone ended up on all fours and took it from behind.',
   'You got frisky and went down on your partner. And they got frisky and went down on you at the same time.',
   'You broke out the handcuffs, tied your partner down, and went at them for all their worth.',
-  'Legs? See shoulders. And then someone got fucked within an inch of their life.'
+  'Legs? See shoulders. And then someone got fucked within an inch of their life.',
+  'No matter how long it went on, and no matter what tricks were pulled, you just couldn\'t reach climax. Well, this is awkward.'
         // 'Results go here', comma after each, \' for each apostrophe //
   ]
 
