@@ -10,7 +10,9 @@
       	background-color: black;
       	opacity: 0.80;
       	border-radius: 10px;
-            overflow: auto;
+            content: "";
+            clear: both;
+            display: table;
       }
       h1 {
         font-family: Audiowide;
