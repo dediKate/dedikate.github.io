@@ -10,6 +10,7 @@
       	background-color: black;
       	opacity: 0.80;
       	border-radius: 10px;
+            overflow: auto;
       }
       h1 {
         font-family: Audiowide;
